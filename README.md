@@ -12,6 +12,6 @@ As of September 2018, there were approximately 2 million iOS apps available on t
 
 Collecting data for over four million apps requires a significant amount of time and money, therefore I will try to analyze a sample of data instead. To avoid spending resources with collecting new data ourselves, I should first try to see whether I can find any relevant existing data at no cost. Luckily, these are two data sets that seem suitable for our purpose:
 
-[A data set](https://www.kaggle.com/lava18/google-play-store-apps/home) containing data about approximately ten thousand Android apps from Google Play
-[A data set](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home) containing data about approximately seven thousand iOS apps from the App Store
+[A data set](https://www.kaggle.com/lava18/google-play-store-apps/home) containing data about approximately ten thousand Android apps from Google Play.
+[A data set](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home) containing data about approximately seven thousand iOS apps from the App Store.
 
