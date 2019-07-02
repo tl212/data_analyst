@@ -1,4 +1,4 @@
-# As a data analyst
+# As a data analyst | ![Awesome](https://awesome.re/badge.svg) 
 
 ## Summary 
 
